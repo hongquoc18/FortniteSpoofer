@@ -2,6 +2,8 @@
 
 Welcome to the **FortniteSpoofer** repository! Here you will find all the information and tools you need to bypass hardware bans and ensure a smooth gaming experience in Fortnite and other games.
 
+![Preview 235462354](/assets/FortniteSpoofer.jpg)
+
 ## Repository Description
 A spoofer is a software that randomizes serial numbers and physical addresses assigned to your hardware. By doing so, it prevents games and other software from tracking you across reboots. Our repository offers the necessary tools and methods to spoof your hardware and avoid bans while playing Fortnite.
 
